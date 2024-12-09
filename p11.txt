@@ -1,0 +1,4 @@
+#program for addition
+def sum(a,b):#Function definition
+    c=a+b
+    print(c)#printing the output

@@ -1,0 +1,4 @@
+University=Oxford University
+Degree=CSE
+Age=20
+Name=Alice

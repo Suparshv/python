@@ -1,0 +1,21 @@
+virat
+rohit
+jadeja
+bumrah
+ashwin
+gill
+siraj
+reddy
+virat
+rohit
+jadeja
+bumrah
+ashwin
+This is python1.
+This is python2.
+This is python3.
+This is python4.
+Name=Alice
+Age=20
+Degree=CSE
+University=Oxford University
